@@ -2,7 +2,7 @@ version: '2.4'
 
 services:
   portainer:
-    container_name: portainer_edge_agent
+    container_name: portainer-edge-agent
     build: ./
     restart: always
     volumes:
