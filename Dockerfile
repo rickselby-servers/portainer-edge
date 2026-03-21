@@ -1,1 +1,1 @@
-FROM portainer/agent:2.39.0-alpine
+FROM portainer/agent:2.39.1-alpine
